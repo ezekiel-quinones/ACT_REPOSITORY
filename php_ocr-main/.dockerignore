@@ -1,4 +1,6 @@
+vendor/
+uploads/
 .git
-vendor
-node_modules
-*.log
+.gitignore
+Dockerfile
+docker-compose.yml
